@@ -7,7 +7,7 @@
 4. “DIE” is the name for corner most part .
 5. Logic is done in the CORE
 
-# 
+
 
 *C-language is first converted to assembly language,*
  *RISC-V architecture, then these bits get executed in the layout*,
@@ -24,3 +24,14 @@
 4. cls - clear screen
 
 We will be working with Skyward130 PDK which was recently made open-source. Openlane is built around pdk.
+
+## Screenshots:
+
+![oops](assets/screenshots/Day-1/start.png)
+![oops](assets/screenshots/Day-1/synthesis_successful.png)
+
+### Calculating Flop Ratio:
+![oops](assets/screenshots/Day-1/stat.png)
+
+**FLOP RATIO = 14876/1613 = 0.1084296853993009**    
+**Percentage of DFF′s = 0.108429685∗100 = 10.84296854%**
