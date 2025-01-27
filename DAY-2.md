@@ -22,8 +22,15 @@ A die which consists of core, is small semiconductor material specimen on which 
 
 *When aspect ratio is 1, it is squared shaped.*
 
-### 1. Define Locations of Preplaced cells:
+### 2. Define Locations of Preplaced cells:
 
 The arrangement of *MEMORY, CLOCK-GATING CELL, COMPARATOR, MUX* IP's in a chip is referred as **Floor Planning**
 
 These IP's/ blocks have user defined locations, and hence are placed in chip before automated placement-and-routing are are called pre-placed cells
+
+## Running Floor plan screenshot:
+![oops](assets/screenshots/Day-2/floorplan.png)
+![oops](assets/screenshots/Day-2/def_file.png)
+![oops](assets/screenshots/Day-2/layout_magic.png)
+
+
