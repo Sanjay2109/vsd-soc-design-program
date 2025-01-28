@@ -1,4 +1,4 @@
-# **DAY - 2**
+![image](https://github.com/user-attachments/assets/4753894e-15fd-42ca-bbf5-a215e23ebbf0)# **DAY - 2**
 
 ## Theory:
 ### 1. Define height and width:
@@ -32,5 +32,16 @@ These IP's/ blocks have user defined locations, and hence are placed in chip bef
 ![oops](assets/screenshots/Day-2/floorplan.png)
 ![oops](assets/screenshots/Day-2/def_file.png)
 ![oops](assets/screenshots/Day-2/layout_magic.png)
+
+After running run_placement
+
+![oops](assets/screenshots/Day-2/run_placement.png)
+
+Screenshots of floorplan def in magic
+
+![oops](assets/screenshots/Day-2/floorplan_def.png)
+
+
+
 
 
