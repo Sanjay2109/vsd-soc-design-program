@@ -10,4 +10,4 @@ set ::env(FP_IO_MODE) 2
 Cloning Git repository
 ![oops](assets/screenshots/Day-3/git.png)
 After copying using cp command 
-![oopps](assets/screenshots/Day-3/copy.png)
+![oopps](assets/screenshots/Day-3/cp.png)
