@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/4753894e-15fd-42ca-bbf5-a215e23ebbf0)# **DAY - 2**
+# **DAY - 2**
+![image](https://github.com/user-attachments/assets/4753894e-15fd-42ca-bbf5-a215e23ebbf0)
 
 ## Theory:
 ### 1. Define height and width:
