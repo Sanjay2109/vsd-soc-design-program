@@ -14,3 +14,4 @@ After copying using cp command
 
 Editing the `sky130_inv.spice` file to this:
 ![oopps](assets/screenshots/Day-3/got_em.png)
+![oopps](assets/screenshots/Day-3/pic.png)
